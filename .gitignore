@@ -12,3 +12,8 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# graphify: machine-local files (interpreter path, scan root, extraction cache)
+graphify-out/cache/
+graphify-out/.graphify_python
+graphify-out/.graphify_root
